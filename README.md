@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I'm working on a game development project.
+- 📫 How to reach me: bkhmelnitskiy@student.agh.edu.pl
 <!--
 **maybe91/maybe91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
