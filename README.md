@@ -3,6 +3,7 @@
 - 🔭 I'm working on a game development project.
 - 📫 How to reach me: bkhmelnitskiy@student.agh.edu.pl
 - 💬 Here you can read more about me: [maybe91](https://maybe91.github.io/)
+- ⚡ [diplomacy_cicerto reposytories link](https://github.com/maybe91/diplomacy_cicero)
 <!--
 **maybe91/maybe91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
